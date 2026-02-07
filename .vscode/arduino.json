@@ -1,0 +1,5 @@
+{
+    "sketch": "wokwi/sketch.ino",
+    "output": "build",
+    "configuration": "esp32:esp32:esp32"
+}
