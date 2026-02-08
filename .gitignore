@@ -1,0 +1,15 @@
+# Screen recordings and large video files
+*.mov
+*.mp4
+*.avi
+Screen Recording*.mov
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Large files
+*.zip
+*.tar.gz
+*.rar
